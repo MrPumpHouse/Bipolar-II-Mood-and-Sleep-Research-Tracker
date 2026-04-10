@@ -35,17 +35,17 @@ This prokect explores the intersection of pyschology, mental health awareness, a
   - Weekly/monthly averagres
  
   ### Educational Resources
-Integrated informational sections provide:
-- Overview of Bipolar II disorder  
-- Explanation of hypomania vs depression  
-- Importance of sleep and routine regulation  
-- Mental health awareness resources  
+  Integrated informational sections provide:
+  - Overview of Bipolar II disorder  
+  - Explanation of hypomania vs depression  
+  - Importance of sleep and routine regulation  
+  - Mental health awareness resources  
 
-### Pattern Recognition
-Users can identify:
-- Behavioral trends  
-- Emotional fluctuations  
-- Lifestyle correlations with mood changes  
+  ### Pattern Recognition
+  Users can identify:
+  - Behavioral trends  
+  - Emotional fluctuations  
+  - Lifestyle correlations with mood changes  
 
 ---
 
@@ -62,7 +62,7 @@ It was developed as a portfolio project to combine interests in **psychology, be
 
 ---
 
-## Technologies Used
+## Tech Stack
 
 - **Frontend:** React.js / JavaScript  
 - **Styling:** CSS / TailwindCSS *(optional depending on your build)*  
@@ -75,7 +75,6 @@ It was developed as a portfolio project to combine interests in **psychology, be
 ## Future Improvements
 
 Planned future features include:
-
 - User authentication/accounts  
 - Cloud database syncing  
 - Downloadable mood reports  
