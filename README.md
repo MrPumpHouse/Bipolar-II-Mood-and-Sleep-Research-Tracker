@@ -65,9 +65,9 @@ It was developed as a portfolio project to combine interests in **psychology, be
 ## Tech Stack
 
 - **Frontend:** React.js / JavaScript  
-- **Styling:** CSS / TailwindCSS *(optional depending on your build)*  
+- **Styling:** CSS / TailwindCSS
 - **Charts:** Chart.js / Recharts  
-- **Storage:** LocalStorage / Firebase *(depending on implementation)*  
+- **Storage:** LocalStorage
 - **Deployment:** GitHub Pages  
 
 ---
